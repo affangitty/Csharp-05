@@ -1,0 +1,30 @@
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.exe
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.deps.json
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.runtimeconfig.json
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.dll
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.pdb
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.AssemblyInfoInputs.cache
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.AssemblyInfo.cs
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.sourcelink.json
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.dll
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\refint\SimpleNotificationSystem.dll
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.pdb
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.genruntimeconfig.cache
+C:\Users\affan\Desktop\Csharp-Genspark\SimpleNotificationSystem\obj\Debug\net8.0\ref\SimpleNotificationSystem.dll
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.exe
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.deps.json
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.runtimeconfig.json
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.dll
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\bin\Debug\net8.0\SimpleNotificationSystem.pdb
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.AssemblyInfoInputs.cache
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.AssemblyInfo.cs
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.sourcelink.json
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.dll
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\refint\SimpleNotificationSystem.dll
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.pdb
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\SimpleNotificationSystem.genruntimeconfig.cache
+C:\Users\affan\Desktop\C# GS\Csharp-05\SimpleNotificationSystem\obj\Debug\net8.0\ref\SimpleNotificationSystem.dll
